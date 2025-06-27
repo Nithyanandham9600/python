@@ -1,6 +1,5 @@
 import heapq
 
-import heapq
 heap = []
 heapq.heappush (heap, 20)
 heapq.heappush(heap, 10)
